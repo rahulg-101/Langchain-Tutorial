@@ -1,6 +1,6 @@
 """
 When this code is run, it creates a web application using Streamlit that allows users to input a question. 
-The application then uses the Langchain and LLAMA2 API to process this question, generating a response based on the Gemma:2B model. 
+The application then uses the Langchain and Ollama API to process this question, generating a response based on the Gemma:2B model. 
 The response is parsed into a string and displayed on the web application. The environment variables for Langchain API keys are set up 
 to authenticate API requests, and Langchain tracing is enabled for tracking purposes. The initial import of ChatOpenAI is unnecessary 
 for this script's functionality and could be removed to clean up the code.

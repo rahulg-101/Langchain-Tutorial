@@ -8,7 +8,8 @@ To learn about the langchain fundamentals, go through the python files in the be
 4. chain
 5. groq
 6. huggingface
-7. openai
+7. agents
+8. openai
 
 Also there are few API keys that you need to use for going through this tutorial, while some are open-source but some are not.
 Save these keys by creating a `.env` file in your project directory and save the key in this exact variables which will be used later
